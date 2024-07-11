@@ -1,0 +1,19 @@
+{
+  "process": [
+    {
+      "id": 1,
+      "process": "image",
+      "numberRequisition": 0
+    },
+    {
+      "id": 2,
+      "process": "password",
+      "numberRequisition": 0
+    },
+    {
+      "id": 3,
+      "process": "qrCode",
+      "numberRequisition": 0
+    }
+  ]
+}
